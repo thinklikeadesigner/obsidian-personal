@@ -1,0 +1,67 @@
+
+- [x] Fridge and freezer
+- [ ] Coffee and tea
+- [ ] Electric kettle
+- [ ] Toaster and/or stove
+- [ ] Basic cooking utensils
+- [ ] Cutlery
+- [ ] Crockery
+- [ ] Mugs and glasses
+- [ ] Dish soap, dish cloths, drying rack
+- [ ] Kitchen towels
+- [ ] Basic cleaning supplies (dustpan, broom, general purpose cleaner and cloths)
+- [ ] Rubbish bin and bin bags
+- [ ] Fire extinguisher, fire blanket, smoke alarm and first aid kit
+- [ ] Cooking basics like pots and pans, oil, salt and pepper, and other long-life, versatile herbs and spices such as basil, oregano, cilantro, paprika
+- [ ] Dishware and silverware (enough for at least the maximum number of guests)
+- [x] Stove
+- [x] Fridge freezer
+- [x] Oven/grill
+- [x] Microwave
+- [x] Kettle
+- [x] Coffee maker
+- [x] Tea and coffee
+- [ ] Sugar and sweeteners
+- [ ] Sponges, scourers, and dishwashing soap
+- [x] Dishwasher
+- [ ] Garbage bags
+- [x] Blender
+- [x] Smoothie maker or juicer
+- [ ] Disinfectant
+- [ ] Bleach
+- [ ] Tupperware
+- [x] Ice cube tray
+- [ ] Coffee and tea essentials
+- [ ] Electric water kettle
+- [ ] Sharp, quality knives
+- [ ] Oven/toaster/stove
+- [ ] Oven mitts, trivets, and kitchen towels
+- [x] Quality pots and pans of various sizes
+- [x] Mixing bowls
+- [x] Strainer
+- [ ] Cooking utensils
+- [x] Silverware
+- [x] Cups, mugs and dishes
+- [x] Serving dishes
+- [x] Measuring cups and spoons
+- [x] Refrigerator and freezer
+- [ ] Drying rack, sponges, soap
+- [ ] Trash can and garbage bags
+- [ ] Basic cleaning supplies (broom, dust pan, all-purpose cleaner, dish soap, sponges etc.)
+- [ ] Wine glasses
+- [x] Microwave
+- [ ] Salt, pepper, and basic spices
+- [ ] Olive oil, vinegar
+- [ ] Paper towels and napkins
+- [ ] Tupperware to store food
+- [ ] Dishwasher
+- [ ] Coffee maker
+- [ ] Eating area and chairs
+- [ ] Wine opener
+wow your guests
+- [ ] - Welcome food basket
+- [ ] Bottle of wine
+- [ ] Basic groceries
+- [x] Garbage disposal
+- [ ] Fun decor
+- [ ] Home-cooked or prepared foods

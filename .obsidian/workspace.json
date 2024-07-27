@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "4b769102021d77d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "772fe86af0d29abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2777a1a0d5f2203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46518c016f26d942",
+    "type": "split",
+    "children": [
+      {
+        "id": "6274f2e47cabca42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d411343363d2a2f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d1437bba9227648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64dc108d5f4b77b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5041847229004
+  },
+  "right": {
+    "id": "e43c3c3580c815a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c923edfe4d2b374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "249b78d6e08bfb69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "700f795518b9d39e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0eb9ffcc0cc2df7c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65e91239feb473f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afc0f126809c5e1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b74319ffc2d420f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "935b8d1125e09241",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "open-vscode:VSCode": false
+    }
+  },
+  "active": "d2777a1a0d5f2203",
+  "lastOpenFiles": [
+    "README.md",
+    "Screenshot 2024-07-27 at 11.31.46 AM.png",
+    "Screenshot 2024-07-27 at 11.31.15 AM.png",
+    "Screenshot 2024-07-27 at 11.30.42 AM.png",
+    "Screenshot 2024-07-27 at 11.27.50 AM.png",
+    "Screenshot 2024-07-27 at 11.03.43 AM.png",
+    "Screenshot 2024-07-27 at 10.56.53 AM.png",
+    "Welcome.md",
+    "tti-tasks/2024/07/2024-07-11.md",
+    "tti-tasks/2024/07/2024-07-24.md",
+    "tti-tasks/2024/07/2024-07-27.md",
+    "**Airbnb Bathroom basics**.md",
+    "Untitled.md",
+    "safety.md",
+    "outdoor.md",
+    "abnb kitchen room.md",
+    "bedroom essentials.md",
+    "essentials.md",
+    "Top amenities.md",
+    "checklist.md",
+    "living room.md",
+    "projects/abnb.md",
+    "projects",
+    "templates/personal template.md",
+    "templates/workday template.md",
+    "templates/weekend atomic habits style.md",
+    "tti-tasks/2024/07/2024-07-01.md",
+    "tti-tasks/2024/05/2024-05-01.md",
+    "tti-tasks/2024/04/2024-04-23.md",
+    "tti-tasks/2024/04/2024-04-29.md",
+    "tti-tasks/2024/06/2024-06-07.md",
+    "tti-tasks/2024/06/2024-06-17.md",
+    "tti-tasks/2024/06/2024-06-03.md",
+    "tti-tasks/2024/07",
+    "tti-tasks/2024/06",
+    "tti-tasks/2024/05",
+    "tti-tasks/2024/04",
+    "tti-tasks/2024",
+    "tti-tasks",
+    "templates",
+    "attachments/Pasted image 20240709144504.png",
+    "attachments/Pasted image 20240709144451.png",
+    "attachments/Pasted image 20240513170614.png",
+    "attachments/Pasted image 20240510163609.png",
+    "attachments/~$new iapl slope.xlsx",
+    "projects",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

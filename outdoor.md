@@ -1,0 +1,7 @@
+- [x] Durable outdoor furniture
+- [x] Clean, working BBQ or grill
+- [ ] Gas or coal and firelighters
+- [x] Tidy garden or backyard with mowed lawns
+- [ ] Neat balcony or patio
+- [ ] Potted plants
+- [ ] Outdoor blankets

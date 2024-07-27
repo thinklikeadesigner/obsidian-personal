@@ -1,0 +1,61 @@
+- [ ] Two pillows per guest (ideally one firm, one soft)
+- [ ] Freshly laundered bed linen (bottom sheet, top sheet, quilt/duvet cover, pillow cases)
+- [x] Mattress protector
+- [ ] Wardrobe, closet, shelving or hanging space (including hangers)
+- [ ] Bedside table and lamp
+- [ ] Blinds or shades for privacy and to block light
+- [x] Appropriate climate control (air conditioner/heater/fan)
+- [ ] Convenient electrical outlets for phone charging
+- [x] TV (with streaming services like Netflix or Apple TV)
+- [ ] Phone charging station 
+- [ ] Artwork/decor
+- [ ] Extra linens, blankets, and pillows
+- [ ] Reading lamp
+- [ ] Alarm clock
+- [ ] Tissues
+- [ ] Bench or chair
+- [ ] Full-length mirror
+- [ ] Candles
+- [ ] High-quality bedding
+- [ ] Bed linens and pillows (2 per person)
+- [x] Air conditioner, heater, and/or fan
+- [x] Dresser, closet and/or shelves
+- [x] Hangers (shirts and pants/skirts)
+- [ ] Shades for privacy and for blocking morning light
+- [x] Waterproof mattress covers
+- [ ] Bedside table
+- [ ] freshly laundered bed linen on each bed
+- [ ] Sufficient pillows for each guest
+- [ ] Extra pillows and blankets (“just in case”)
+- [ ] Plenty of clothes hangers
+- [ ] Dresser
+- [ ] Luggage stand
+- [ ] Night tables with lamps
+- [ ] Cozy rug
+- [ ] TV for late-night watching before bed
+
+
+### Consolidated Duplicate List:
+
+- Two pillows per guest (ideally one firm, one soft)
+- Freshly laundered bed linen (bottom sheet, top sheet, quilt/duvet cover, pillow cases)
+- Mattress protector
+- Wardrobe, closet, shelving or hanging space (including hangers)
+- Bedside table and lamp
+- Blinds or shades for privacy and to block light
+- Appropriate climate control (air conditioner/heater/fan)
+- TV (with streaming services like Netflix or Apple TV)
+- Extra linens, blankets, and pillows
+- Bed linens and pillows (2 per person)
+- Air conditioner, heater, and/or fan
+- Dresser, closet and/or shelves
+- Hangers (shirts and pants/skirts)
+- Shades for privacy and for blocking morning light
+- Waterproof mattress covers
+- Bedside table
+- Freshly laundered bed linen on each bed
+- Sufficient pillows for each guest
+- Extra pillows and blankets
+- Plenty of clothes hangers
+- Dresser
+- Night tables with lamps

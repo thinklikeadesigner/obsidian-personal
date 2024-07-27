@@ -1,0 +1,16 @@
+- Fire extinguisher
+- Fire blanket
+- Carbon monoxide detector
+- Smoke detector
+- First aid kit
+- Window safety locks
+- - Emergency numbers provided in an accessible location
+- Bandaids of various shapes and sizes
+- Tweezers
+- Sterile gauze pads
+- Medical tape
+- Antibiotic ointment
+- Aspirin/Tylenol
+- Thermometer
+- Alcohol
+- Ice packs

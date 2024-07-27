@@ -1,0 +1,13 @@
+- [ ] Freshly laundered bed linen on each bed
+- [ ] Sufficient pillows for each guest
+- [ ] Extra pillows and blankets – “just in case”
+- [x] Plenty of clothes hangers
+- [x] Clean and fresh towels for each guest
+- [ ] Iron and ironing board
+- [x] Fully-furnished kitchen so guests can cook their own meals
+- [x] Washer/dryer and detergent
+- [x] Hot water
+- [x] Air conditioning and/or heating if/when necessary
+- [x] TV (with cable or Netflix etc.)
+- [x] Wireless internet ([Wi-Fi](https://www.lodgify.com/blog/provide-wifi-vacation-rental-guests/))
+- [x] Private entrance to the home
